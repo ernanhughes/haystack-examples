@@ -1,0 +1,8 @@
+haystack-ai
+ollama-haystack
+pyarrow
+datasets
+wikipedia
+
+
+ipykernel
